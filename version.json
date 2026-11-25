@@ -1,5 +1,7 @@
 {
-  "sha": "3042cb9",
-  "built_at": "2026-11-25 20:16 UTC",
-  "apk_url": "https://github.com/hmaki123/3-scren-shoot-finger-releases/releases/download/latest/ThreeFingerShot-debug.apk"
+  "sha": "d81f229",
+  "version_code": 29927442,
+  "sha256": "56a45666e6a64d5c57bdef8aa7825b20a9063440f032665ffee312e51513f8c3",
+  "built_at": "2026-11-25 22:47 UTC",
+  "apk_url": "https://github.com/hmaki123/3-scren-shoot-finger-releases/releases/download/latest/ThreeFingerShot-release.apk"
 }
